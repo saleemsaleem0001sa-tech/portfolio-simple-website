@@ -1,1 +1,1 @@
-# portfolio-simple-website
+# pThis is a simple personal portfolio website created using HTML and basic CSS. The website is designed to introduce myself, showcase my skills, and present my work in a simple and organized way.ortfolio-simple-website
